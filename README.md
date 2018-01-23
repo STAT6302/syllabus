@@ -26,7 +26,7 @@ Dr. Homrighausen
 
 Also, we will be lightly using Github for some aspects of the class.  Some Github resources:
 https://www.atlassian.com/git/tutorials (Comprehensive tutorial)
-\item \href{https://www.git-tower.com/blog/git-cheat-sheet/}{\textcolor{blue}{Github commands cheat sheet}} 
-\item \href{https://try.github.io/levels/1/challenges/1}{\textcolor{blue}{Try Github tutorial}} (A quick online application going over basics)
-\end{itemize}
+https://www.git-tower.com/blog/git-cheat-sheet/ (Github commands cheat sheet) 
+https://try.github.io/levels/1/challenges/1 (A quick online application going over basics)
+
 
