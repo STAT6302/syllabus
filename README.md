@@ -25,8 +25,11 @@ Dr. Homrighausen
 # Github
 
 Also, we will be lightly using Github for some aspects of the class.  Some Github resources:
+
 https://www.atlassian.com/git/tutorials (Comprehensive tutorial)
+
 https://www.git-tower.com/blog/git-cheat-sheet/ (Github commands cheat sheet) 
+
 https://try.github.io/levels/1/challenges/1 (A quick online application going over basics)
 
 
