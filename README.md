@@ -10,6 +10,7 @@ After you have registered, please click the following course enrollment link to 
 
 https://odamid.oda.sas.com/SASODAControlCenter/enroll.html?enroll=897b7435-a282-406f-a6d7-56f001f5eff3
 
+(course code: 897b7435-a282-406f-a6d7-56f001f5eff3)
 
 I have also uploaded data for us to use in our course. You will be able to access that data using the following directory
 
